@@ -96,7 +96,7 @@ Experiencia
     Inhis 2000**  
     Asistencia ténica informática para empresas.
 
-Algunos proyectos a destacar 💪:muscle:
+Algunos proyectos a destacar :muscle:
 ----------------
 **2020-actualmente
 :	HOPU**  
