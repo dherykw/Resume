@@ -98,10 +98,34 @@ Experiencia
 
 Algunos proyectos a destacar 💪:muscle:
 ----------------
-**2020-actualmente
+
+**2017-Actualmente
+:	HOPU**  
+	[https://hopu.eu/](https://hopu.eu/)  
+    Coordinación del departamento de Software
+
+**2020-Actualmente
+:	HOPU**  
+	Automatización de CI/CD de servicios del departamento de inteligencia artificial.
+
+**2021-Actualmente
+:	HOPU**  
+    Análisis & diseño de la aplicación "Gestión de aforo y monitorización de multitudes La Manga 365"
+
+**2021-Actualmente
+:	HOPU**  
+	[https://www.i3-market.eu/](https://www.i3-market.eu/)  
+    Integración de pilotos en proyecto i3-Market
+
+**2021-Actualmente
+:	HOPU**   
+	[ODALA-PROJECT](https://oascities.org/odala-developing-the-future-of-smart-cities-communities/)     
+    Integración de casos de uso para proyecto ODALA
+
+**2020-2021
 :	HOPU**  
     Análisis & diseño de la aplicación "Gestión de ruido eficiente de Valencia"
-	
+
 
 **2017-2020
 :	HOPU - FORTIKA**  
@@ -124,9 +148,9 @@ Habilidades TI
 --------------
 **Lenguajes:** Python, JavaScript, Java, HTML
 
-**Bases de datos:**	MySQL, PostreSQL, MongoDB
-
 **IoT:** LwM2M, MQTT, NGSI 9/10
+
+**Despliegue:**	Docker, Ansible, Gitlab CI/CD
 
 **Plataformas:** FIWARE
 
