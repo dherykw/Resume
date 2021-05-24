@@ -14,6 +14,9 @@ Personal data
 E-mail
 : gmc.ykw@gmail.com
 
+Phone number
+: +34 649 84 82 57
+
 Birth date
 : 7 de noviembre de 1983
 
