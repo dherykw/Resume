@@ -14,6 +14,9 @@ Datos Personales
 E-mail
 : gmc.ykw@gmail.com
 
+Teléfono
+: +34 649 84 82 57
+
 Fecha de nacimiento
 : 7 de noviembre de 1983
 
@@ -96,7 +99,7 @@ Experiencia
     Inhis 2000**  
     Asistencia ténica informática para empresas.
 
-Algunos proyectos a destacar 💪:muscle:
+Algunos proyectos a destacar :muscle:
 ----------------
 
 **2017-Actualmente
